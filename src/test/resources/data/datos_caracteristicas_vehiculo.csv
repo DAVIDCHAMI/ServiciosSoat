@@ -1,0 +1,48 @@
+﻿id;idFiltro;idTipoServicio;idClaseVehiculo;idMarca;idLinea;modelo;noMotor;noChasis;noVin;cilindraje;noPlaca;capacidadPasajerosSentados;datosTecnicos
+1;Motos~Ciclomotor;1;163;2599;303808;2017;G4HGBM425364;LAB51HACM737287;LAB51HACM737287;50;ZND50B;1;DatoTecnicoSoloElectrico
+2;Motos~Menos de 100 c.c.;1;10;958;17150;2008;G4HGBM425365;LAB51HACM737288;LAB51HACM737288;99;ZND51B;2;DatoTecnicoSoloGasolina
+3;Motos~Entre 100 - 200 c.c;4;10;52;3368;2010;G4HGBM425366;LAB51HACM737289;LAB51HACM737289;199;ZND52B;2;DatoTecnicoSoloGasolina
+4;Motos~Mas de 200 c.c;1;10;21;156347;2018;G4HGBM425367;LAB51HACM737290;LAB51HACM737290;292;ZND53B;2;DatoTecnicoSoloGasolina
+5;Motos~Motocarros Tricimotos y Cuadriciclos;1;14;277;300735;2018;G4HGBM425368;LAB51HACM737291;LAB51HACM737291;197;ZND55B;3;Motos~Motocarros Tricimotos y Cuadriciclos
+6;Vehículos oficiales especiales ambulancias~Menos de 1500 c.c;3;7;15;7224;2012;G4HGBM425369;LAB51HACM737292;LAB51HACM737292;1490;ZND110;16;DatoTecnicoVehiculosOficiales
+7;Vehículos oficiales especiales ambulancias~Entre 1500  -  2500 c.c;3;7;15;7224;2012;G4HGBM425370;LAB51HACM737293;LAB51HACM737293;1998;ZND111;16;DatoTecnicoVehiculosOficiales
+8;Vehículos oficiales especiales ambulancias~Más de 2500 c.c;3;7;15;7224;2012;G4HGBM425371;LAB51HACM737294;LAB51HACM737294;2953;ZND109;16;DatoTecnicoVehiculosOficiales
+9;Camperos y camionetas~Menos de 1500 c.c~2015;1;5;1;7898;2015;G4HGBM425372;LAB51HACM737295;LAB51HACM737295;1490;ZND100;5;DatoTecnicoCamperosYCamionetas
+10;Camperos y camionetas~Menos de 1500 c.c~2010;1;5;1;7898;2010;G4HGBM425373;LAB51HACM737296;LAB51HACM737296;1490;ZND103;5;DatoTecnicoCamperosYCamionetas
+11;Camperos y camionetas~Entre 1500 -  2500 c.c~2015;1;5;1;7898;2015;G4HGBM425374;LAB51HACM737297;LAB51HACM737297;1998;ZND101;5;DatoTecnicoCamperosYCamionetas
+12;Camperos y camionetas~Entre 1500 -  2500 c.c~2009;1;5;1;7898;2009;G4HGBM425375;LAB51HACM737298;LAB51HACM737298;1998;ZND104;5;DatoTecnicoCamperosYCamionetas
+13;Camperos y camionetas~Más de 2500 c.c~2015;1;5;1;205;2015;G4HGBM425376;LAB51HACM737299;LAB51HACM737299;3000;ZND102;5;DatoTecnicoCamperosYCamionetas
+14;Camperos y camionetas~Más de 2500 c.c~2008;1;5;1;205;2008;G4HGBM425377;LAB51HACM737300;LAB51HACM737300;3000;ZND105;5;DatoTecnicoCamperosYCamionetas
+15;Autos familiares~Menos de 1500 c.c~2015;1;1;5;8593;2015;G4HGBM425378;LAB51HACM737301;LAB51HACM737301;1399;ZND112;5;DatoTecnicoSoloGasolina
+16;Autos familiares~Menos de 1500 c.c~2010;1;1;208;5332;2010;G4HGBM425379;LAB51HACM737302;LAB51HACM737302;1495;ZND115;5;DatoTecnicoSoloGasolina
+17;Autos familiares~Entre 1500 -  2500 c.c~2015;1;1;5;8593;2015;G4HGBM425380;LAB51HACM737303;LAB51HACM737303;1998;ZND113;5;DatoTecnicoSoloGasolina
+18;Autos familiares~Entre 1500 -  2500 c.c~2009;1;1;208;5332;2009;G4HGBM425381;LAB51HACM737304;LAB51HACM737304;1998;ZND112;5;DatoTecnicoSoloGasolina
+19;Autos familiares~Más de 2500 c.c~2015;1;1;5;8593;2015;G4HGBM425382;LAB51HACM737305;LAB51HACM737305;3000;ZND114;5;DatoTecnicoSoloGasolina
+20;Autos familiares~Más de 2500 c.c~2008;1;1;208;5332;2008;G4HGBM425383;LAB51HACM737306;LAB51HACM737306;3000;ZND117;5;DatoTecnicoSoloGasolina
+21;Vehículos con capacidad para 6 ó mas pasajeros~Menos de 2500 c.c~2015;1;7;30;302417;2015;G4HGBM425384;LAB51HACM737307;LAB51HACM737307;2143;ZND118;17;DatoTecnicoVehiculosMasDe6Pasajeros
+22;Vehículos con capacidad para 6 ó mas pasajeros~Menos de 2500 c.c~2010;1;6;51;3334;2010;G4HGBM425385;LAB51HACM737308;LAB51HACM737308;1600;ZND120;7;DatoTecnicoVehiculosMasDe6Pasajeros
+23;Vehículos con capacidad para 6 ó mas pasajeros~2500 o más c.c~2015;1;7;30;302417;2015;G4HGBM425386;LAB51HACM737309;LAB51HACM737309;3000;ZND119;17;DatoTecnicoVehiculosMasDe6Pasajeros
+24;Vehículos con capacidad para 6 ó mas pasajeros~2500 o más c.c~2009;1;6;51;3334;2009;G4HGBM425387;LAB51HACM737310;LAB51HACM737310;3000;ZND120;7;DatoTecnicoVehiculosMasDe6Pasajeros
+25;Vehículo de carga o mixto~Menos de 5 Tons.;1;5;25;2186;1994;G4HGBM425394;LAB51HACM737310;LAB51HACM737310;2400;ZND106;3;Vehículo de carga o mixto~Menos de 5 Tons.
+26;Vehículo de carga o mixto~Entre 5 y 15 Tons.;1;5;25;2186;1994;G4HGBM425395;LAB51HACM737310;LAB51HACM737310;2400;ZND107;3;Vehículo de carga o mixto~Entre 5 y 15 Tons.
+27;Vehículo de carga o mixto~Más de 15 Tons.;1;5;25;2186;1994;G4HGBM425396;LAB51HACM737310;LAB51HACM737310;2400;ZND108;3;Vehículo de carga o mixto~Más de 15 Tons.
+28;Auto familiar con menos de 1500 c.c y modelo 2015;1;1;8;7258;2015;G4HGBM425378;LAB51HACM737301;LAB51HACM737301;1400;SDK382;4;DatoTecnicoSoloGasolina
+29;Auto familiar con menos de 1500 c.c y modelo 2018;1;1;8;7258;2015;G4HGBM425378;LAB51HACM737301;LAB51HACM737301;1400;SDK362;4;DatoTecnicoSoloGasolina
+30;SOAT vigente con Sura;1;1;8;7258;2015;G4HGBM425378;LAB51HACM737301;LAB51HACM737301;1400;MAT111;4;DatoTecnicoSoloGasolina
+31;Autos de negocio taxis y microbuses urbanos~Menos de 1500 c.c.~2020;2;1;5;16522;2020;TEST123;TEST12345;TEST12345;1086;ZND530;5;DatoTecnicoSoloGasolina
+32;Autos de negocio taxis y microbuses urbanos~Menos de 1500 c.c.~2010;2;1;5;16522;2010;TEST123;TEST12345;TEST12345;1499;ZND530;5;DatoTecnicoSoloGasolina
+33;Autos de negocio taxis y microbuses urbanos~Entre 1500 -  2500 c.c.~2019;2;1;5;16522;2019;TEST123;TEST12345;TEST12345;1500;ZND530;5;DatoTecnicoSoloGasolina
+34;Autos de negocio taxis y microbuses urbanos~Entre 1500 -  2500 c.c.~2009;2;1;5;16522;2009;TEST123;TEST12345;TEST12345;2500;ZND530;5;DatoTecnicoSoloGasolina
+35;Autos de negocio taxis y microbuses urbanos~Más de 2500 c.c.~2018;2;1;5;16522;2018;TEST123;TEST12345;TEST12345;2501;ZND530;5;DatoTecnicoSoloGasolina
+36;Autos de negocio taxis y microbuses urbanos~Más de 2500 c.c.~2008;2;1;5;16522;2008;TEST123;TEST12345;TEST12345;2999;ZND530;5;DatoTecnicoSoloGasolina
+37;Vehículos de servicio público urbano buses y busetas;2;7;15;7224;2020;TEST123;TEST12345;TEST12345;2999;ZND531;16;DatoTecnicoSoloGasolina
+38;Vehículo de servicio intermunicipal~Menos de 10 pasajeros;2;7;15;7224;2015;TEST123;TEST12345;TEST12345;1400;ZND532;9;DatoTecnicoSoloGasolina
+39;Vehículo de servicio intermunicipal~10  ó  Más pasajeros;2;7;15;7224;2015;TEST123;TEST12345;TEST12345;1600;ZND532;10;DatoTecnicoSoloGasolina
+40;Camperos y camionetas~Sin cilindraje~2020;1;5;1;7898;2020;TEST123;TEST12345;TEST12345;;ZND533;5;DatoTecnicoCamperosYCamionetas
+41;Autos familiares~Entre 1500 -  2500 c.c~Sin modelo;1;1;208;5332;;TEST123;TEST12345;TEST12345;1501;ZND533;5;DatoTecnicoSoloGasolina
+42;Vehículos con capacidad para 6 ó mas pasajeros~Sin cilindraje~Sin modelo;1;7;30;302417;;TEST123;TEST12345;TEST12345;;ZND533;17;DatoTecnicoVehiculosMasDe6Pasajeros
+43;Autos de negocio taxis y microbuses urbanos~Sin cilindraje~Sin modelo;2;1;5;16522;;TEST123;TEST12345;TEST12345;;ZND533;5;DatoTecnicoSoloGasolina
+44;Auto familiar con mas de 2500 c.c y modelo 2011;1;1;5;8593;2011;G4HGBM425382;LAB51HACM737305;LAB51HACM737305;3000;CTL123;5;DatoTecnicoSoloGasolina
+45;Soat vigente con más de 6 meses para vencerse;1;1;5;8593;2011;G4HGBM425382;LAB51HACM737305;LAB51HACM737305;3000;MAT201;5;DatoTecnicoSoloGasolina
+46;SOAT con Sura;1;1;5;8593;2011;G4HGBM425382;LAB51HACM737305;LAB51HACM737305;3000;EIM020;5;DatoTecnicoSoloGasolina
+47;Auto familiar con menos de 1500 c.c y modelo 2020;1;1;8;7258;2020;G4HGBM425378;LAB51HACM737301;LAB51HACM737301;1400;ZND211;4;DatoTecnicoSoloGasolina

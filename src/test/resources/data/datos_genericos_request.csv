@@ -1,0 +1,8 @@
+id;idFiltro;codigoAsesor;direccionIp;tenant;urlRetorno;retroactiva
+1;riesgo estandar~SDK382;9999;127.00.00;;https://www.suraenlinea.com/v2/sura/pagos/5ea2f8591e00006e073b3a76;S
+2;riesgo estandar~CTL123;9999;127.00.00;;https://www.suraenlinea.com/v2/sura/pagos/5ea2f8591e00006e073b3a76;
+3;riesgo estandar~SDK362;9999;190.131.244.2;;https://www.suraenlinea.com/v2/sura/pagos/5ea2f8591e00006e073b3a76;S
+4;riesgo estandar~MAT111;9999;127.00.00;;https://www.suraenlinea.com/v2/sura/pagos/5ea2f8591e00006e073b3a76;
+5;riesgo estandar~MAT201;9999;190.131.244.2;;https://www.suraenlinea.com/v2/sura/pagos/5ea2e88b1e00006e073b3a2c;
+6;riesgo moral~EIM020;9999;190.131.244.2;;https://www.suraenlinea.com/v2/sura/pagos/5ea2e88b1e00006e073b3a2c;
+7;riesgo estandar~ZND211;9999;190.131.244.2;;/v2/sura/pagos/5ea2e88b1e00006e073b3a2c;S
